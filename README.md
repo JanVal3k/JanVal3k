@@ -13,11 +13,13 @@
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/JanVal3k](https://github.com/JanVal3k)
 
+- :mailbox: Contato **dariog_36@hotmail.com**
+
 - 💬 Pregúntame sobre **React, Js, HTML, Tailwind**
 
 <h3 align="left">Contactame en:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hernan dario gomez marquez" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/hernan-dario-gomez-marquez-b12958203/" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
 <a href="mailto:dariog_36@hormail.com" target="_blank">
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Hotmail&color=0078D4&logo=Microsoft%20Outlook&logoColor=FFFFFF&label=" alt="Hotmail" />
 </p>
