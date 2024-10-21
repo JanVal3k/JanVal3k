@@ -1,4 +1,4 @@
-<h1 align="center">Hola! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">, Mi nombre es: Hernan Dario Gomez M.</h1>
+<h1 align="center">Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , Mi nombre es: Hernan Dario Gomez M. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"></h1>
 <h3 align="center">Eres bienvenid@ a mi perfil de Github, te doy las gracias por visitarlo y espero sea de tu agrado</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janval3k&label=Profile%20views&color=0e75b6&style=flat" alt="janval3k" /> </p>
@@ -10,8 +10,6 @@
 - 👯 Estoy buscando colaborar en **Proyectos Front-end**
 
 - 🤝 Estoy buscando ayuda con **Desarrolo web**
-
-- 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/JanVal3k](https://github.com/JanVal3k)
 
 - :mailbox: Contato **dariog_36@hotmail.com**
 
@@ -35,18 +33,20 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=cs" alt="bootstrap" width="40" height="40"/> 
   </a> 
+  
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/> 
   </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
+  
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" style="background-white: red; border-radius: 10px;" alt="photoshop" width="40" height="40"/> 
   </a> 
