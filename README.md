@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janval3k&label=Profile%20views&color=0e75b6&style=flat" alt="janval3k" /> </p>
 
-- 🔭 Actualmente estoy **continuo estudiando**
+- 🔭 Actualmente estoy **estudiando y buscando empleo**
 
-- 🌱 Estoy aprendiendo **Python, Angula, Node, Mysql**
+- 🌱 Estoy aprendiendo **Python, React-native, Mysql**
 
 - 👯 Estoy buscando colaborar en **Proyectos Front-end**
 
