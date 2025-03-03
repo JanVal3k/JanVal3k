@@ -5,7 +5,7 @@
 
 - 🔭 Actualmente estoy **estudiando y buscando empleo**
 
-- 🌱 Estoy aprendiendo **Python, React-native, Mysql**
+- 🌱 Estoy aprendiendo **Angular, React-native, Mysql**
 
 - 👯 Estoy buscando colaborar en **Proyectos Front-end**
 
