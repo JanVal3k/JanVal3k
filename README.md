@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janval3k&label=Profile%20views&color=0e75b6&style=flat" alt="janval3k" /> </p>
 
-- 🔭 Actualmente estoy **estudiando y buscando empleo**
+- 🔭 Actualmente sigo **estudiando y buscando empleo**
 
-- 🌱 Estoy aprendiendo **Angular, React-native, Mysql**
+- 🌱 He realizado web y apps en **Angular, React, React-native, SQLite**
 
 - 👯 Estoy buscando colaborar en **Proyectos Front-end**
 
@@ -13,7 +13,7 @@
 
 - :mailbox: Contato **dariog_36@hotmail.com**
 
-- 💬 Pregúntame sobre **React, Js, HTML, Tailwind**
+- 💬 Pregúntame sobre **React, Angular Js, HTML, CSS, Tailwind**
 
 <h3 align="left">Contactame en:</h3>
 <p align="left">
